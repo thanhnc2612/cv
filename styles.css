@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #E4F9F5;
+}
+div.top {
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 50px;
+}
+div.middle {
+}
+div.bottom {
+}
+h1 {
+  margin-top: 0,
+  font-family: 'Sacramento', cursive;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+.bottom-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile {
+  margin: 50px;
+}
+.skill-row {
+  margin: 50px;
+}
+.mountain {
+  margin: 50px;
+}
