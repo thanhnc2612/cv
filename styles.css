@@ -36,12 +36,12 @@ a {
 .top-cloud {
   position: absolute;
   top: 20px;
-  right: 300px;
+  right: 20%;
 }
 .bottom-cloud {
   position: absolute;
-  left: 20%;
-  bottom: 40%;
+  left: 15%;
+  bottom: 45%;
 }
 
 .profile {
