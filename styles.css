@@ -40,9 +40,8 @@ a {
 }
 .bottom-cloud {
   position: absolute;
-  right: 300px;
-  left: 300px;
-  bottom: 300px;
+  left: 20%;
+  bottom: 40%;
 }
 
 .profile {
