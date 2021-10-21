@@ -5,31 +5,41 @@ body {
 }
 div.top {
   position: relative;
-  padding-top: 120px;
+  padding-top: 50px;
   margin-bottom: 50px;
 }
 div.middle {
 }
 div.bottom {
 }
+
 h1 {
   font-family: 'Sacramento', cursive;
-  font-size: 45px;
+  font-size: 4rem;
+  margin: 50px auto 0 auto;
 }
 h2 {
   font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
 }
 h3 {
   font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: #11999E;
+}
+.des {
+  font-weight: normal;
+}
+a {
+  color: #11999E;
 }
 .top-cloud {
   position: absolute;
-  top: 50px;
+  top: 20px;
   right: 300px;
 }
 .bottom-cloud {
   position: absolute;
-  top: 50px;
   right: 300px;
   left: 300px;
   bottom: 300px;
