@@ -8,13 +8,26 @@ body {
 div.top {
   position: relative;
   padding-top: 50px;
-  margin-bottom: 50px;
+  margin: auto auto 50px auto;
 }
-div.middle {
+.profile {
+  background-color: #191919;
+  margin: 50px;
+  padding: 50px;
+  border-radius: 20px;
 }
-div.bottom {
+.skills {
+  background-color: #191919;
+  margin: 50px;
+  padding: 50px;
+  border-radius: 20px;
 }
-
+.contact {
+  background-color: #191919;
+  margin: 50px;
+  padding: 50px;
+  border-radius: 20px;
+}
 h1 {
   font-family: 'Sacramento', cursive;
   font-size: 4rem;
@@ -23,6 +36,7 @@ h1 {
 h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
+  color: #66BFBF;
 }
 h3 {
   font-family: 'Montserrat', sans-serif;
@@ -32,6 +46,7 @@ h3 {
 p {
   font-family: 'Montserrat', sans-serif;
   font-size: 1.1em;
+  line-height: 1.5;
 }
 .des {
   font-weight: normal;
@@ -53,9 +68,44 @@ a {
 .profile {
   margin: 50px;
 }
-.skill-row {
-  margin: 50px;
 }
 .factory {
   margin-top: 50px;
+}
+.skill-row1 {
+  width: 70%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+}
+.skill-row2 {
+  width: 70%;
+  margin: auto auto 50px auto;
+  text-align: left;
+}
+.bio {
+  width: 70%;
+  margin: auto;
+}
+.end-part {
+  width: 70%;
+  margin: auto;
+}
+
+.businessman-img {
+  float: left;
+  margin-right: 30px;
+}
+.robot-img {
+  float: left;
+  margin-right: 30px;
+}
+hr {
+  width: 5%;
+  border-style: dotted;
+  border-width: 0 0 5px;
+  border-color: #EAF6F6
+}
+
+.bottom-container {
+  word-spacing: 10px;
 }
