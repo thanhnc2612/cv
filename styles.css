@@ -102,8 +102,9 @@ a:hover {
   width: 70%;
   margin: auto;
 }
-.coppyright {
+.copyright {
   font-size: 0.75rem;
+  margin: 20px;
 }
 
 .businessman-img {
