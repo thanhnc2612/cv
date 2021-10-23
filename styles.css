@@ -42,6 +42,7 @@ h3 {
   font-family: 'Montserrat', sans-serif;
   font-size: 1.5rem;
   color: #11999E;
+
 }
 p {
   font-family: 'Montserrat', sans-serif;
@@ -53,7 +54,17 @@ p {
 }
 a {
   color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: auto 10px auto 10px;
+  text-decoration: none;
+  font-weight: bold;
 }
+a:hover {
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
 .top-cloud {
   position: absolute;
   top: 20px;
@@ -104,8 +115,4 @@ hr {
   border-style: dotted;
   border-width: 0 0 5px;
   border-color: #EAF6F6
-}
-
-.bottom-container {
-  word-spacing: 10px;
 }
