@@ -12,19 +12,22 @@ div.top {
 }
 .profile {
   background-color: #191919;
-  margin: 50px;
+  margin: 60px;
   padding: 50px;
   border-radius: 20px;
 }
+.profile-img {
+  padding-top: 1.6rem;
+}
 .skills {
   background-color: #191919;
-  margin: 100px 50px 50px 50px;
+  margin: 100px 60px 50px 60px;
   padding: 50px;
   border-radius: 20px;
 }
 .contact {
   background-color: #191919;
-  margin: 100px 50px 50px 50px;
+  margin: 100px 60px 50px 60px;
   padding: 50px;
   border-radius: 20px;
 }
@@ -37,6 +40,7 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
   color: #66BFBF;
+
 }
 h3 {
   font-family: 'Montserrat', sans-serif;
@@ -76,9 +80,6 @@ a:hover {
   bottom: 45%;
 }
 
-.profile {
-  margin: 50px;
-}
 }
 .factory {
   margin-top: 50px;
