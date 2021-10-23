@@ -101,6 +101,9 @@ a:hover {
   width: 70%;
   margin: auto;
 }
+.coppyright {
+  font-size: 0.75rem;
+}
 
 .businessman-img {
   float: left;
